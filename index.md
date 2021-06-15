@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages -->
 
-You can use the [editor on GitHub](https://github.com/zhaijianyang/zhaijianyang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Jianyang Zhai
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table class="imgtable">
+  <tr>
+    <td>
+      <img src="/image.JPG" alt="Wenxuan Tu" width="160px" height="201.6px" />&nbsp;
+    </td>
+    <td align="left">
+      <p>P.h.D Candidate</p>
+      <p WxTu.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
+      <p>Email: wenxuantu@163.com, twx@nudt.edu.cn</p>
+      <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
+      <p>[<a href="https://scholar.google.com/citations?user=MmH2POsAAAAJ&hl=zh-CN">Google Scholar</a>] [<a href="https://www.researchgate.net/profile/Tu-Wenxuan">ResearchGate</a>] [<a href="https://github.com/WxTu">Github</a>] [<a href="https://orcid.org/my-orcid">ORCID</a>]</p>
+    </td>
+ </tr>
+</table>
 
-### Markdown
+### Short Bio
+  <p align = "justify">I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. My research interests include graph machine learning and computer vision.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education Experience
+  <ul>
+    <li> 
+      <p>[Sep 2020 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
+      <p>[Sep 2017 - Jul 2020]. Master, Hunan University, Changsha, China </p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>[Sep 2013 - Jul 2017]. Bachelor, Hainan University, Haikou, China </p>
+    </li>
+  </ul>
+  
 
-```markdown
-Syntax highlighted code block
+### Publications
+   <ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+    </li>
+  </ul>
 
-# Header 1
-## Header 2
-### Header 3
+ <ul>
+    <li> 
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+    </li>
+  </ul> 
 
-- Bulleted
-- List
+  <ul>
+    <li> 
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/WxTu/CIFReNet">Code</a>] </p>
+    </li>
+  </ul> 
 
-1. Numbered
-2. List
+   <ul>
+    <li> 
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul> 
 
-**Bold** and _Italic_ and `Code` text
+### Awards
+  <ul>
+    <li> 
+      <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>Future Cup College AI Challenge，1st Place in Central China & Southern China, 2018  </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
+      <p>Future Cup College AI Challenge，3rd Place in National Finals, 2018 </p>
+    </li>
+  </ul>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaijianyang/zhaijianyang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+<p>Any discussions or concerns are welcomed! [wenxuantu@163.com], [twx@nudt.edu.cn]</p>
