@@ -34,7 +34,7 @@
 ### Awards
 <ul>
     <li> 
-      <p>Medical Out-of-Distribution Analysis Challenge，4rd Place, 2020 </p>
+      <p>Medical Out-of-Distribution Analysis Challenge, 4rd Place, 2020 </p>
     </li>
   </ul>
 
